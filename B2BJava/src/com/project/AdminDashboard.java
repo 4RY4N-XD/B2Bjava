@@ -37,3 +37,4 @@ public class AdminDashboard extends JFrame {
         setVisible(true);
     }
 }
+
