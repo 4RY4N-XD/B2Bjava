@@ -80,4 +80,5 @@ public class LoginFrame extends JFrame {
             JOptionPane.showMessageDialog(this, "Select Buyer or Seller to register");
         }
     }
+    
 }
