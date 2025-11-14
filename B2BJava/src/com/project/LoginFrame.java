@@ -1,4 +1,5 @@
 package com.project;
+package com.project;
 
 import javax.swing.*;
 import java.awt.*;
@@ -80,5 +81,9 @@ public class LoginFrame extends JFrame {
             JOptionPane.showMessageDialog(this, "Select Buyer or Seller to register");
         }
     }
+<<<<<<< HEAD
     
 }
+=======
+}
+>>>>>>> 02c19d79d0bf45a1171d01223e2431952f19dfbf
